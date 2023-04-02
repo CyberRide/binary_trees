@@ -54,6 +54,3 @@ Project done during **Full Stack Software Engineering studies** at **ALX School*
 | `134-heap_to_sorted_array.c` | Write a function that converts a Binary Max Heap to a sorted array of integers |
 | `135-O` | File with the average time complexities of inserting a value, removing and searching a node on a Binary Heap |
 
-
-## Author
-* Abel Berhanu    - [Abel](https://github.com/abela12)
